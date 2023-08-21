@@ -1,2 +1,2 @@
 # understandinggis
-This is the assignment for the course GEOG3/70551 Understanding GISin University of Manchester's.
+This is the course code and the assessment  for the course of GEOG3/70551 Understanding GIS in University of Manchester.
